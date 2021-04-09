@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorprimary"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/titlepage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="24dp"
+        android:fontFamily="@font/audiowide"
+        android:lineSpacingExtra="8dp"
+        android:text="Top Exercises"
+        android:textColor="@color/black"
+        android:textSize="32sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/subtitlepage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="5dp"
+        android:lineSpacingExtra="8dp"
+        android:text="Facile Exercies for Beginners"
+        android:fontFamily="@font/concert_one"
+        android:textColor="@color/black"
+        android:textSize="19sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/titlepage" />
+
+    <View
+        android:id="@+id/divpage"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginStart="26dp"
+        android:background="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/subtitlepage" />
+
+    <TextView
+        android:id="@+id/intropage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="24dp"
+        android:lineSpacingExtra="8dp"
+        android:text="Introduction"
+        android:textColor="@color/black"
+        android:textSize="26sp"
+        android:fontFamily="@font/audiowide"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/divpage" />
+
+    <TextView
+        android:id="@+id/subintropage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="6dp"
+        android:lineSpacingExtra="8dp"
+        android:text="You can add here whatever related \n to you exercises."
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:fontFamily="@font/berkshire_swash"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/intropage" />
+
+    <LinearLayout
+        android:id="@+id/fitone"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/subintropage">
+
+        <ImageView
+            android:src="@drawable/chest"
+            android:layout_width="120dp"
+            android:layout_height="70dp"/>
+
+        <LinearLayout
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/fitonetitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chest Workout"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:fontFamily="@font/audiowide"/>
+
+            <TextView
+                android:id="@+id/fitonedesc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3 To 13 Minutes"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:fontFamily="@font/concert_one"/>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/fittwo"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fitone">
+
+        <ImageView
+            android:src="@drawable/biceps"
+            android:layout_width="120dp"
+            android:layout_height="70dp"/>
+
+        <LinearLayout
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/fittwotitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Biceps Workout"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:fontFamily="@font/audiowide"/>
+
+            <TextView
+                android:id="@+id/fittwodesc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4 To 14 Minutes"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:fontFamily="@font/concert_one"/>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/fitthree"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fittwo">
+
+        <ImageView
+            android:src="@drawable/shoulder"
+            android:layout_width="120dp"
+            android:layout_height="70dp"/>
+
+        <LinearLayout
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/fitthreetitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Shoulder Workout"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:fontFamily="@font/audiowide"/>
+
+            <TextView
+                android:id="@+id/fitthreedesc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5 To 15 Minutes"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:fontFamily="@font/concert_one"/>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/fitfour"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fitthree">
+
+        <ImageView
+            android:src="@drawable/leg"
+            android:layout_width="120dp"
+            android:layout_height="70dp"/>
+
+        <LinearLayout
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/fitfourtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Leg Workout"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:fontFamily="@font/audiowide"/>
+
+            <TextView
+                android:id="@+id/fitfourdesc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="10 To 25 Minutes"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:fontFamily="@font/concert_one"/>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/bgprogress"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+    <TextView
+        android:id="@+id/btnexercise"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="12dp"
+        android:fontFamily="@font/audiowide"
+        android:gravity="center"
+        android:text="CONTINUE WORKOUT"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
