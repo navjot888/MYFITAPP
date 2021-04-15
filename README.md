@@ -33,21 +33,21 @@ The contstruction of the app doesn't require much resouces. All you need is Andr
 Also this app doesn't require any modules or external libraries or dependencies.
 
 ## FUCNTIONALITY OF THE APP ##
-> The app doensn't required the user to sign in or verify their usename or emails.
-> User can track their exercises with the timer that has been installed in the app.
-> As it has been stated in the introduction, that user can manually enter different forms of exercises to it.
-> The person can't veiw other people's activities as it is not that advanced versions it is just a simple and quick app.
-> Supports both the portrait and landscape.
+1 The app doensn't required the user to sign in or verify their usename or emails.
+2 User can track their exercises with the timer that has been installed in the app.
+3 As it has been stated in the introduction, that user can manually enter different forms of exercises to it.
+4 The person can't veiw other people's activities as it is not that advanced versions it is just a simple and quick app.
+5 Supports both the portrait and landscape.
  
 ## FEATURES WITH USE CASES ##
-> Using activities instead of FRAGMENTS
-> Threading
+1 Using activities instead of FRAGMENTS
+2 Threading
     * Timer / Clock
-> Gestures
+3 Gestures
     * Lists, navigation, Layouts
-> Animations
+4 Animations
     * Transition between views
-> Internet Connectivity
+5 Internet Connectivity
 
 ## RECOMMENDED MODULES ##
 This is an optional section an illustrates the dependencies and the imports being used
