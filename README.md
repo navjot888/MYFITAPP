@@ -42,11 +42,11 @@ Also this app doesn't require any modules or external libraries or dependencies.
 ## FEATURES WITH USE CASES ##
 1 Using activities instead of FRAGMENTS\
 2 Threading\
-    * Timer / Clock\
+       * Timer / Clock\
 3 Gestures\
-    * Lists, navigation, Layouts\
+       * Lists, navigation, Layouts\
 4 Animations\
-    * Transition between views\
+       * Transition between views\
 5 Internet Connectivity
 
 ## RECOMMENDED MODULES ##
