@@ -37,16 +37,16 @@ Also this app doesn't require any modules or external libraries or dependencies.
 2 User can track their exercises with the timer that has been installed in the app.\
 3 As it has been stated in the introduction, that user can manually enter different forms of exercises to it.\
 4 The person can't veiw other people's activities as it is not that advanced versions it is just a simple and quick app.\
-5 Supports both the portrait and landscape.\
+5 Supports both the portrait and landscape.
  
 ## FEATURES WITH USE CASES ##
-1 Using activities instead of FRAGMENTS
-2 Threading
-    * Timer / Clock
-3 Gestures
-    * Lists, navigation, Layouts
-4 Animations
-    * Transition between views
+1 Using activities instead of FRAGMENTS\
+2 Threading\
+    * Timer / Clock\
+3 Gestures\
+    * Lists, navigation, Layouts\
+4 Animations\
+    * Transition between views\
 5 Internet Connectivity
 
 ## RECOMMENDED MODULES ##
