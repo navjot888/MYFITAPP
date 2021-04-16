@@ -28,6 +28,8 @@ My FITAPP is not a cumbersome app. It's just a simple and easy to use app with a
 Initially the once the app opens up it takes the user to the home page where the user finds the a motviational thought written just to make them ready to do the workout. And after that when the user presses the START WORKOUT button then a list of different workouts appear. 
 The user then can select any of the workouts they would like to start with such as if a person wants to do CARDIO they can select that option and a timer will appear on the upcoming screen and the individuals can add whatever they want to enter and can start doing the workout instantly with the timer counting the time.
 
+![workout](https://user-images.githubusercontent.com/68032647/115057700-9dd77b00-9ea1-11eb-9240-d7ea60b6ed5f.png)
+<img width="957" alt="workout1" src="https://user-images.githubusercontent.com/68032647/115064841-a5e7e880-9eaa-11eb-98bc-6c1962052486.png">
 
 
 
