@@ -29,6 +29,9 @@ Initially the once the app opens up it takes the user to the home page where the
 The user then can select any of the workouts they would like to start with such as if a person wants to do CARDIO they can select that option and a timer will appear on the upcoming screen and the individuals can add whatever they want to enter and can start doing the workout instantly with the timer counting the time.
 
 ![images](https://user-images.githubusercontent.com/68032647/115056852-8f3c9400-9ea0-11eb-80d8-f4717d648141.png)
+
+![workout](https://user-images.githubusercontent.com/68032647/115057700-9dd77b00-9ea1-11eb-9240-d7ea60b6ed5f.png)
+
 ## REQUIREMENTS ##
 The contstruction of the app doesn't require much resouces. All you need is Android Studio installed in your personal computer, with a knowledge of implementing your ideas on creating the structure of the app you want to create. 
 Also this app doesn't require any modules or external libraries or dependencies.
