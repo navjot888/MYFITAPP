@@ -71,6 +71,10 @@ Also this app doesn't require any modules or external libraries or dependencies.
 
 <img width="150" alt="getfit2" src="https://user-images.githubusercontent.com/68032647/115287928-12165680-a10e-11eb-9fa9-6bdc012693f1.png">
 
+<img width="148" alt="getfit3" src="https://user-images.githubusercontent.com/68032647/115288060-3b36e700-a10e-11eb-9253-10d85fcaee2a.png">
+
+<img width="139" alt="getfit1" src="https://user-images.githubusercontent.com/68032647/115288089-44c04f00-a10e-11eb-9cb4-62ebd5288ebb.PNG">
+
 
 
 ## RECOMMENDED MODULES ##
