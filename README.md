@@ -59,6 +59,15 @@ Also this app doesn't require any modules or external libraries or dependencies.
 
 ![chest](https://user-images.githubusercontent.com/68032647/115287525-9fa57680-a10d-11eb-8d70-2cd1e7f39891.jpg)
 
+![biceps](https://user-images.githubusercontent.com/68032647/115287701-cfed1500-a10d-11eb-995d-38c6d251ceef.jpg)
+
+![shoulder](https://user-images.githubusercontent.com/68032647/115287717-d4193280-a10d-11eb-8f21-40a60973e6c5.jpg)
+
+![leg](https://user-images.githubusercontent.com/68032647/115287724-d7142300-a10d-11eb-9c88-782eeb1da44a.jpg)
+
+![clock1](https://user-images.githubusercontent.com/68032647/115287736-da0f1380-a10d-11eb-8863-eedf7f82abd1.jpg)
+
+
 ## RECOMMENDED MODULES ##
 This is an optional section an illustrates the dependencies and the imports being used
 
