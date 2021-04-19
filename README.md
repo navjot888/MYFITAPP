@@ -69,6 +69,9 @@ Also this app doesn't require any modules or external libraries or dependencies.
 
 ## FINAL OVERVIEW ##
 
+<img width="150" alt="getfit2" src="https://user-images.githubusercontent.com/68032647/115287928-12165680-a10e-11eb-9fa9-6bdc012693f1.png">
+
+
 
 ## RECOMMENDED MODULES ##
 This is an optional section an illustrates the dependencies and the imports being used
