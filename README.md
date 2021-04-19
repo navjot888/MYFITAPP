@@ -55,6 +55,7 @@ Also this app doesn't require any modules or external libraries or dependencies.
 
 ## IMAGES ##
 
+![img](https://user-images.githubusercontent.com/68032647/115286872-d16a0d80-a10c-11eb-819b-2b7b65937d81.jpg)
 
 ## RECOMMENDED MODULES ##
 This is an optional section an illustrates the dependencies and the imports being used
