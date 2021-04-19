@@ -53,6 +53,9 @@ Also this app doesn't require any modules or external libraries or dependencies.
        * Transition between views\
 5 Internet Connectivity
 
+## IMAGES ##
+
+
 ## RECOMMENDED MODULES ##
 This is an optional section an illustrates the dependencies and the imports being used
 
