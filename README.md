@@ -67,6 +67,8 @@ Also this app doesn't require any modules or external libraries or dependencies.
 
 ![clock1](https://user-images.githubusercontent.com/68032647/115287736-da0f1380-a10d-11eb-8863-eedf7f82abd1.jpg)
 
+## FINAL OVERVIEW ##
+
 
 ## RECOMMENDED MODULES ##
 This is an optional section an illustrates the dependencies and the imports being used
