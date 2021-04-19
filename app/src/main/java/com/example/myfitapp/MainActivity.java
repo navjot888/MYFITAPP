@@ -18,15 +18,15 @@ public class MainActivity extends AppCompatActivity {
     View bgprogress, bgprogresstop;
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) { //For initializing the essential components of the activity
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_main); // For defining the layout for Activity's user interface
 
-        animimgpage = AnimationUtils.loadAnimation(this, R.anim.animimgpage);
-        bttone = AnimationUtils.loadAnimation(this, R.anim.bttone);
+        animimgpage = AnimationUtils.loadAnimation(this, R.anim.animimgpage); // Loading the animation
+        bttone = AnimationUtils.loadAnimation(this, R.anim.bttone); //
         bttwo = AnimationUtils.loadAnimation(this, R.anim.bttwo);
         btthree = AnimationUtils.loadAnimation(this, R.anim.btthree);
-        lefttoright = AnimationUtils.loadAnimation(this, R.anim.lefttoright);
+        lefttoright = AnimationUtils.loadAnimation(this, R.anim.lefttoright); //Class to define the layout directions
 
 
         titlepage = (TextView) findViewById(R.id.titlepage);
@@ -36,21 +36,22 @@ public class MainActivity extends AppCompatActivity {
         bgprogress = (View) findViewById(R.id.bgprogress);
         bgprogresstop = (View) findViewById(R.id.bgprogresstop);
 
-        imgpage.startAnimation(animimgpage);
-        titlepage.startAnimation(bttone);
-        subtitlepage.startAnimation(bttone);
+        imgpage.startAnimation(animimgpage); // Displays the image when the app loads up
+        titlepage.startAnimation(bttone); // Shows the thought that has been displayed just below the image
+        subtitlepage.startAnimation(bttone); // It is the subtitle just underneath the title of the app
 
-        btnexercise.startAnimation(btthree);
-        bgprogress.startAnimation(bttwo);
-        bgprogresstop.startAnimation(lefttoright);
+        btnexercise.startAnimation(btthree); // Button to start the exercise
+        bgprogress.startAnimation(bttwo); // Start beginning the workout
+        bgprogresstop.startAnimation(lefttoright); // To pause or stop the workout in between according to the users wish
 
-        //give an event to another page
+        //Give an event to another page
+        // Gives a command to run the app once a button "START WORKOUT" is clicked
         btnexercise.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent a = new Intent(MainActivity.this, WorkoutAct.class);
+                Intent a = new Intent(MainActivity.this, WorkoutAct.class); // Setting up an intent for the activity to initiate without any animation and then starting the activity.
                 a.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
-                startActivity(a);
+                startActivity(a); // Start the Activity
             }
         });
 

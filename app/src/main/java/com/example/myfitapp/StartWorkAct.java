@@ -24,19 +24,19 @@ public class StartWorkAct extends AppCompatActivity {
 
     ImageView imgTimer;
 
-    private static final long START_TIME_IN_MILLIS = 5000;
-    private CountDownTimer countDownTimer;
-    private boolean mTimerRunning;
+    private static final long START_TIME_IN_MILLIS = 5000; // Starting the timer in millis
+    private CountDownTimer countDownTimer; // Initializing the Timer
+    private boolean mTimerRunning; // Initialing boolean to let the time know whether the command is being received is true or false
     private long mTimeLeftInMillis = START_TIME_IN_MILLIS;
 
-    Animation btthree, bttfour, ttbone, ttbtwo, alphago;
+    Animation btthree, bttfour, ttbone, ttbtwo, alphago; // Animation ID's for assigning to the viewmodels
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) { //For initializing the essential components of the activity
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_start_work);
+        setContentView(R.layout.activity_start_work);// For defining the layout for Activity's user interface
 
-        //Load Animation
+        //Loading Animation
         btthree = AnimationUtils.loadAnimation(this, R.anim.btthree);
         bttfour = AnimationUtils.loadAnimation(this, R.anim.bttfour);
         ttbone = AnimationUtils.loadAnimation(this, R.anim.ttbone);
@@ -57,7 +57,7 @@ public class StartWorkAct extends AppCompatActivity {
 
         imgTimer = (ImageView)findViewById(R.id.imgtimer);
 
-        //assign animation
+        //Assigning animation
         btnexercise.startAnimation(bttfour);
         bgprogress.startAnimation(btthree);
         fitone.startAnimation(ttbone);
