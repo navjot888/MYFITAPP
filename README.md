@@ -158,7 +158,7 @@ In this project the waterfall model is used is not quite used but it's just for 
 
 ## FINAL OVERVIEW ##
 
-![File Manager1 1](https://user-images.githubusercontent.com/68032647/115446238-1efd7d80-a1d4-11eb-9f24-510ce76199f5.png)
+![File Manager1 1](https://user-images.githubusercontent.com/68032647/115446570-a3500080-a1d4-11eb-9f9f-29753f4317a6.png)
 
 
 ![File Manager vpd (1)](https://user-images.githubusercontent.com/68032647/115445244-d85b5380-a1d2-11eb-8121-63d5a670b2f7.png)
@@ -170,5 +170,9 @@ In this project the waterfall model is used is not quite used but it's just for 
 
 
 ## MAINTAINERS ##
+- This entire app is being maintained and created by Navjot Kaur
+- Taken some assitance in building the app from outside sources which has been mentioned in the refereces
+- The entire arcitecture and blue - print has been statically designed
+- The app doesn't require any maintainance.
 
 ## REFERENCES ##
