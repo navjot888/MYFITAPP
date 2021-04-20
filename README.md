@@ -1,6 +1,6 @@
-                                                                        # MYFITAPP #
+                                                                    # MYFITAPP #
                                                                              
-# TABLE OF CONTENTS $$
+$$ TABLE OF CONTENTS $$
 
 
 # INTRODUCTION
@@ -11,13 +11,7 @@
 
 # FEATURES WITH USE CASES #
 
-# RECOMMENDED MODULES
-
-# INSTALLATION
-
 # CONFIGURATION
-
-# TROUBLESHOOTING AND FAQs
 
 # MAINTAINERS
 
@@ -30,9 +24,22 @@ The user then can select any of the workouts they would like to start with such 
 
 <img width="957" alt="workout1" src="https://user-images.githubusercontent.com/68032647/115065031-e0ea1c00-9eaa-11eb-96cd-0968bd2cdfa5.png">
 
+## OBJECTTIVE OF THE PROJECT ##
+The main objective behind creating the app is to make the easy and convenient way to shape yourself within restricted time span, for the individuals who feel trouble or doesn't able to make it to the gym due their hectic schedules. 
+It demonstrates the use of Android Smartphone and enlightens how it can be used to produce better functionalities for the ease of human lifestyle.
+The smart way to work within this world is to connect everyting to a centralized database and store information in the cloud. And it has proved to be the most effective thing.
+> The amount of paper used
+> Reduction in the cost 
+> Makes the app available to all the people as it an open source app
+> Makes the app understandable to all the people at once without having any issues.
+
+# Scope of the Project #
+> The app is absolutely user friendly
+> It provided users a good interface to interact with it.
 
 
-## REQUIREMENTS ##
+
+## REQUIREMENT ANALYSIS ##
 The contstruction of the app doesn't require much resouces. All you need is Android Studio installed in your personal computer, with a knowledge of implementing your ideas on creating the structure of the app you want to create. 
 Also this app doesn't require any modules or external libraries or dependencies.
 
@@ -56,7 +63,8 @@ Also this app doesn't require any modules or external libraries or dependencies.
        * Transition between views\
 5 Internet Connectivity
 
-## IMAGES ##
+## DRAWABLES ##
+Drawables includes the images that the app includes for the User Interface to look attractive and acceptable to the user.
 
 ![img](https://user-images.githubusercontent.com/68032647/115286872-d16a0d80-a10c-11eb-819b-2b7b65937d81.jpg)
 
@@ -75,19 +83,8 @@ Also this app doesn't require any modules or external libraries or dependencies.
 <img width="150" alt="getfit2" src="https://user-images.githubusercontent.com/68032647/115287928-12165680-a10e-11eb-9fa9-6bdc012693f1.png">                   <img width="148" alt="getfit3" src="https://user-images.githubusercontent.com/68032647/115288060-3b36e700-a10e-11eb-9253-10d85fcaee2a.png">                   <img width="139" alt="getfit1" src="https://user-images.githubusercontent.com/68032647/115288089-44c04f00-a10e-11eb-9cb4-62ebd5288ebb.PNG">
 
 
-
-
-
-
-## RECOMMENDED MODULES ##
-This is an optional section an illustrates the dependencies and the imports being used
-
-## DRAWABLES ##
-Drawables includes the images that the app includes for the User Interface to look attractive and acceptable to the user.
-
 ## CONFIGURATION ##
 
-## TROUBLESHOOTING AND FAQS ##
 
 ## MAINTAINERS ##
 
