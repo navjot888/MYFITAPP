@@ -1,6 +1,6 @@
 # Creator : NAVJOT KAUR #
 
-# Project Name : MYFITAPP #
+# Project Name : MYFITAPP # 
 
 # ------------------------------------------------------------------------------ #
 
