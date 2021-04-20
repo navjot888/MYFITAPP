@@ -47,7 +47,7 @@ Also this app doesn't require any modules or external libraries or dependencies.
 
 
 
- FUCNTIONALITY OF THE APP
+ ### FUCNTIONALITY OF THE APP\ ###
 1 The app doensn't required the user to sign in or verify their usename or emails.\
 2 User can track their exercises with the timer that has been installed in the app.\
 3 As it has been stated in the introduction, that user can manually enter different forms of exercises to it.\
