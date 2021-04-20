@@ -47,22 +47,22 @@ Also this app doesn't require any modules or external libraries or dependencies.
 ![File Manager vpd](https://user-images.githubusercontent.com/68032647/115305111-15680d00-a123-11eb-8c2a-15820f41ff19.png)
 
 ### Functionaal and Non-functional Requirements ###
-A functional requirement defines a function of a system or its component. A function is described as a set of inputs, the behaviour, and outputs.
+A **functional requirement** defines a function of a system or its component. A function is described as a set of inputs, the behaviour, and outputs.
 
 > The functional requirement of this app is not much as it just performs the basic fuctionnal not much structural compositions is required.
-    > The app allows all the users operate it without having to register or to sign up.
-    > The system shall allow the users to post whatever they would like to inpout.
+    - The app allows all the users operate it without having to register or to sign up.
+    - The system shall allow the users to post whatever they would like to inpout.
 
 
-A non-fucntional requirement is a requirement is a requirement that specifies criteria that can be used to judge the operation of a system, rather than specific behaviours.
+A **non-fucntional requirement** is a requirement is a requirement that specifies criteria that can be used to judge the operation of a system, rather than specific behaviours.
 
-> Compatibilty
-  > The app is easy to operate and accessible
-  > It should allow the users to access without any restrictions.
+> **Compatibilty**
+  - The app is easy to operate and accessible
+  - It should allow the users to access without any restrictions.
 
-> Reliability and availability
-  > The app shoud be obtainable from anywhere where there is internet availabilty.
-  > System should be ableto give response on time. Loading time of the system should no be much.
+> **Reliability and availability**
+  - The app shoud be obtainable from anywhere where there is internet availabilty.
+  - System should be ableto give response on time. Loading time of the system should no be much.
 
 ### User Requirements ###
 > User should be able to navigate the app without any difficulty
