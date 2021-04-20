@@ -45,9 +45,13 @@ Also this app doesn't require any modules or external libraries or dependencies.
 
 ![File Manager vpd](https://user-images.githubusercontent.com/68032647/115305111-15680d00-a123-11eb-8c2a-15820f41ff19.png)
 
+#### Functionaal and Non-functional Requirements ####
+A functional requirement defines a function of a system or its component. A function is described as a set of inputs, the behaviour, and outputs.
 
 
- #### FUCNTIONALITY OF THE APP ####
+
+
+## FUCNTIONALITY OF THE APP ##
 1 The app doensn't required the user to sign in or verify their usename or emails.\
 2 User can track their exercises with the timer that has been installed in the app.\
 3 As it has been stated in the introduction, that user can manually enter different forms of exercises to it.\
