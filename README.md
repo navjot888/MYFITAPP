@@ -137,11 +137,28 @@ Drawables includes the images that the app includes for the User Interface to lo
 
 ## PROCESS MODEL ##
 ![File Manager](https://user-images.githubusercontent.com/68032647/115439997-78fa4500-a1cc-11eb-9fc2-7a6dcdfbf6ef.png)
+a) **Requirement Gathering and Analysis**
+- Requirements for the project are collected and secured in this area 
+b) **System Design**
+- System structure and blueprint are created
+c) **Implementation**
+- The blueprint and derivation are development in this spot
+d) **Integration and Testing**
+- The components of the app are being tested
+e) **Maintenance**
+- The app doesn't require much maintainance
+
+In this project the waterfall model is used is not quite used but it's just for elaborating the justifying the project view for the reader to find a better idea of how it works.
+1. All the requirements are clear and maintained.
+2. Requirements are not ambiguous.
+3. The blueprint and contruction of the app was done.
+4. Ample resources with required expertise were available freely.
+5. The project is stubby.
 
 
 ## FINAL OVERVIEW ##
 
-<img width="150" alt="getfit2" src="https://user-images.githubusercontent.com/68032647/115287928-12165680-a10e-11eb-9fa9-6bdc012693f1.png">                   <img width="148" alt="getfit3" src="https://user-images.githubusercontent.com/68032647/115288060-3b36e700-a10e-11eb-9253-10d85fcaee2a.png">                   <img width="139" alt="getfit1" src="https://user-images.githubusercontent.com/68032647/115288089-44c04f00-a10e-11eb-9cb4-62ebd5288ebb.PNG">
+
 
 
 
