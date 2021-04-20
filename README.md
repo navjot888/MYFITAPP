@@ -176,3 +176,12 @@ In this project the waterfall model is used is not quite used but it's just for 
 - The app doesn't require any maintainance.
 
 ## REFERENCES ##
+https://online.visual-paradigm.com/app/diagrams/#diagram:proj=0&type=AndroidWireframe&gallery=/repository/49a48c55-abd4-4747-b868-06dc25ff206e.xml&name=File%20Manager
+
+https://www.academia.edu/43693827/FITNESS_PLUS_HEALTH_AND_FITNESS_APP_SUBMITTED_BY_QAYYUM_KADRI
+
+https://www.youtube.com/watch?v=JTcqmb5eORU&t=1055s
+
+https://guides.github.com/features/mastering-markdown/
+
+https://www.drupal.org/docs/develop/documenting-your-project/readme-template
