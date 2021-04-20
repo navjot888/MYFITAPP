@@ -1,9 +1,6 @@
 
 # _**MYFIT APP**_ # 
 
-[title.docx](https://github.com/navjot888/MYFITAPP/files/6346627/title.docx)
-
-
                                                           
 # TABLE OF CONTENTS :  #
 
