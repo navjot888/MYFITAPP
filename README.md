@@ -1,5 +1,6 @@
 
-# _**MYFIT APP**_ #                                                                     
+# _**MYFIT APP**_ #   
+{: .text-center}
                                                           
 # TABLE OF CONTENTS :  #
 
@@ -82,15 +83,15 @@ A **non-fucntional requirement** is a requirement is a requirement that specifie
 **Feasibility study** 
 -A feasility study is an analysis that takes all of a project's relevant factors into account - including _economic, technical, legal and scheduing considerations_ to ascertain the likelihood of completing the project successfully.
     
- **Operational Feasibility**\
+ **Operational Feasibility**
  -Operational feasibleness study tests the operatoinal scope of the system to be developed.\
  - In case of any inaccuracy like operating the app, the user is created privy to the error messages
  - The usability is moderate
  - Response time of the app is rapid.
  - The app is created with clear and straightforward to know navigation that permits the user to pursue the operation quickly
 
- **Economical Feasibility**\
- -The purpose of the economic practicableness assessment is to work out the positive economic edges that the project system can offer. There are a bunch of edges from the project system like:\
+ **Economical Feasibility**
+ -The purpose of the economic practicableness assessment is to work out the positive economic edges that the project system can offer. There are a bunch of edges from the project system like:
  - An existing system is manual, wherever information might not be availabel out on time. However, projected system are computerized, there was able to overcome all the hurdles of the existing system.
  - It can save a lot of time an efforts of the folks.
 
