@@ -1,6 +1,6 @@
 
-# _**MYFIT APP**_ #   
-{: .text-center}
+# _**MYFIT APP**_ # {: .text-center}  
+
                                                           
 # TABLE OF CONTENTS :  #
 
