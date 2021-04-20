@@ -1,11 +1,11 @@
-                                                                     MYFITAPP 
+MYFIT APP                                                                      
                                                                              
 # TABLE OF CONTENTS #
 
 
 # INTRODUCTION #
 
-# REQUIREMENTS #
+# REQUIREMENTS ANALYSIS #
 
 # FUNCTIONALITY OF THE APP #
 
