@@ -1,23 +1,22 @@
-element {
-   font-size : 75;
-_*MYFIT APP*_                                                                      
- }                                                               
-# TABLE OF CONTENTS #
+
+# _**MYFIT APP**_ #                                                                     
+                                                          
+# TABLE OF CONTENTS :  #
 
 
-# INTRODUCTION #
+## INTRODUCTION ##
 
-# REQUIREMENTS ANALYSIS #
+## REQUIREMENTS ANALYSIS ##
 
-# FUNCTIONALITY OF THE APP #
+## FUNCTIONALITY OF THE APP ##
 
-# FEATURES WITH USE CASES #
+## FEATURES WITH USE CASES ##
 
-# CONFIGURATION #
+## CONFIGURATION ##
 
-# MAINTAINERS #
+## MAINTAINERS ##
 
-# REFERENCES #
+## REFERENCES ##
 
 ## INTRODUCTION ##
 My FITAPP is not a cumbersome app. It's just a simple and easy to use app with a friendly User Interface design that is easy to navigate to. It can be easily operated by anyone, even if the individaul is not a so friedly with using technology and is totally new to it. It has a very simple and catchable UI. 
