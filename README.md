@@ -42,6 +42,9 @@ The smart way to work within this world is to connect everyting to a centralized
 
 ### Diagram ###
 
+![arrow](https://user-images.githubusercontent.com/68032647/115447566-e3fc4980-a1d5-11eb-8f63-2d4770e002fe.png)
+
+
 ### Scope of the Project ### 
 > The app is absolutely user friendly
 > It provided users a good interface to interact with it.
