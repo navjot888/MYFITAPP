@@ -6,6 +6,10 @@
 
 
 <img width="254" alt="title" src="https://user-images.githubusercontent.com/68032647/115464280-0ef09880-a1ea-11eb-92b3-48873a98e311.png">     
+![FinishedCompetentIrishwolfhound-size_restricted](https://user-images.githubusercontent.com/68032647/115471294-f6d24680-a1f4-11eb-9a90-abfe6d40ab8e.gif)
+
+
+
 
 # ------------------------------------------------------------------------------ #
 
