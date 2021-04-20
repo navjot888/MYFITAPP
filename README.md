@@ -39,6 +39,9 @@ The smart way to work within this world is to connect everyting to a centralized
 > Makes the app available to all the people as it an open source app
 > Makes the app understandable to all the people at once without having any issues.
 
+
+### Diagram ###
+
 ### Scope of the Project ### 
 > The app is absolutely user friendly
 > It provided users a good interface to interact with it.
