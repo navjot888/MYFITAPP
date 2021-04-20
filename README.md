@@ -117,13 +117,13 @@ A **non-fucntional requirement** is a requirement is a requirement that specifie
 5 Supports both the portrait and landscape.
  
 ## FEATURES WITH USE CASES ##
-1 Using activities instead of FRAGMENTS\
-2 Threading\
-       - Timer / Clock\
-3 Gestures\
-       - Lists, navigation, Layouts\
-4 Animations\
-       - Transition between views\
+1 Using activities instead of FRAGMENTS
+2 Threading
+- Timer / Clock
+3 Gestures
+- Lists, navigation, Layouts
+4 Animations
+- Transition between views
 5 Internet Connectivity
 
 ## DRAWABLES ## 
@@ -163,6 +163,11 @@ In this project the waterfall model is used is not quite used but it's just for 
 
 
 ## FINAL OVERVIEW ##
+
+This section shows the final images of how the app looks actually after running on the device.
+- So after the app loads on the device theh first screen shows up as the image below
+- Then the workout options are being displayed
+- And later after the user selects the type of workout they want to do the time screen shows up
 
 ![File Manager1 1](https://user-images.githubusercontent.com/68032647/115446570-a3500080-a1d4-11eb-9f9f-29753f4317a6.png)
 
