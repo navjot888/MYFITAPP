@@ -136,7 +136,7 @@ Drawables includes the images that the app includes for the User Interface to lo
 ![clock1](https://user-images.githubusercontent.com/68032647/115287736-da0f1380-a10d-11eb-8863-eedf7f82abd1.jpg)
 
 ## PROCESS MODEL ##
-
+![File Manager](https://user-images.githubusercontent.com/68032647/115439997-78fa4500-a1cc-11eb-9fc2-7a6dcdfbf6ef.png)
 
 
 ## FINAL OVERVIEW ##
