@@ -11,20 +11,20 @@
 
 # FEATURES WITH USE CASES #
 
-# CONFIGURATION
+# CONFIGURATION #
 
-# MAINTAINERS
+# MAINTAINERS #
 
-# REFERENCES
+# REFERENCES #
 
-### INTRODUCTION ###
+## INTRODUCTION ##
 My FITAPP is not a cumbersome app. It's just a simple and easy to use app with a friendly User Interface design that is easy to navigate to. It can be easily operated by anyone, even if the individaul is not a so friedly with using technology and is totally new to it. It has a very simple and catchable UI. 
 Initially the once the app opens up it takes the user to the home page where the user finds the a motviational thought written just to make them ready to do the workout. And after that when the user presses the START WORKOUT button then a list of different workouts appear. 
 The user then can select any of the workouts they would like to start with such as if a person wants to do CARDIO they can select that option and a timer will appear on the upcoming screen and the individuals can add whatever they want to enter and can start doing the workout instantly with the timer counting the time.
 
 <img width="957" alt="workout1" src="https://user-images.githubusercontent.com/68032647/115065031-e0ea1c00-9eaa-11eb-96cd-0968bd2cdfa5.png">
 
-### OBJECTTIVE OF THE PROJECT ###
+## OBJECTTIVE OF THE PROJECT ##
 The main objective behind creating the app is to make the easy and convenient way to shape yourself within restricted time span, for the individuals who feel trouble or doesn't able to make it to the gym due their hectic schedules. 
 It demonstrates the use of Android Smartphone and enlightens how it can be used to produce better functionalities for the ease of human lifestyle.
 The smart way to work within this world is to connect everyting to a centralized database and store information in the cloud. And it has proved to be the most effective thing.
@@ -33,7 +33,7 @@ The smart way to work within this world is to connect everyting to a centralized
 > Makes the app available to all the people as it an open source app
 > Makes the app understandable to all the people at once without having any issues.
 
-Scope of the Project 
+#### Scope of the Project #### 
 > The app is absolutely user friendly
 > It provided users a good interface to interact with it.
 
@@ -47,14 +47,14 @@ Also this app doesn't require any modules or external libraries or dependencies.
 
 
 
- ### FUCNTIONALITY OF THE APP\ ###
+ #### FUCNTIONALITY OF THE APP ####
 1 The app doensn't required the user to sign in or verify their usename or emails.\
 2 User can track their exercises with the timer that has been installed in the app.\
 3 As it has been stated in the introduction, that user can manually enter different forms of exercises to it.\
 4 The person can't veiw other people's activities as it is not that advanced versions it is just a simple and quick app.\
 5 Supports both the portrait and landscape.
  
-### FEATURES WITH USE CASES ###
+## FEATURES WITH USE CASES ##
 1 Using activities instead of FRAGMENTS\
 2 Threading\
        * Timer / Clock\
@@ -64,7 +64,7 @@ Also this app doesn't require any modules or external libraries or dependencies.
        * Transition between views\
 5 Internet Connectivity
 
-### DRAWABLES ###
+## DRAWABLES ## 
 Drawables includes the images that the app includes for the User Interface to look attractive and acceptable to the user.
 
 ![img](https://user-images.githubusercontent.com/68032647/115286872-d16a0d80-a10c-11eb-819b-2b7b65937d81.jpg)
@@ -79,7 +79,7 @@ Drawables includes the images that the app includes for the User Interface to lo
 
 ![clock1](https://user-images.githubusercontent.com/68032647/115287736-da0f1380-a10d-11eb-8863-eedf7f82abd1.jpg)
 
-### FINAL OVERVIEW ###
+## FINAL OVERVIEW ##
 
 <img width="150" alt="getfit2" src="https://user-images.githubusercontent.com/68032647/115287928-12165680-a10e-11eb-9fa9-6bdc012693f1.png">                   <img width="148" alt="getfit3" src="https://user-images.githubusercontent.com/68032647/115288060-3b36e700-a10e-11eb-9253-10d85fcaee2a.png">                   <img width="139" alt="getfit1" src="https://user-images.githubusercontent.com/68032647/115288089-44c04f00-a10e-11eb-9cb4-62ebd5288ebb.PNG">
 
