@@ -1,5 +1,5 @@
 
-# _**MYFIT APP**_ # {: .text-center}  
+# _**MYFIT APP**_ # 
 
                                                           
 # TABLE OF CONTENTS :  #
@@ -15,7 +15,9 @@
 
 ## FEATURES WITH USE CASES ##
 
-## CONFIGURATION ##
+## DRAWABLES ##
+
+## PROCESS MODEL ##
 
 ## MAINTAINERS ##
 
@@ -133,12 +135,14 @@ Drawables includes the images that the app includes for the User Interface to lo
 
 ![clock1](https://user-images.githubusercontent.com/68032647/115287736-da0f1380-a10d-11eb-8863-eedf7f82abd1.jpg)
 
+## PROCESS MODEL ##
+
+
+
 ## FINAL OVERVIEW ##
 
 <img width="150" alt="getfit2" src="https://user-images.githubusercontent.com/68032647/115287928-12165680-a10e-11eb-9fa9-6bdc012693f1.png">                   <img width="148" alt="getfit3" src="https://user-images.githubusercontent.com/68032647/115288060-3b36e700-a10e-11eb-9253-10d85fcaee2a.png">                   <img width="139" alt="getfit1" src="https://user-images.githubusercontent.com/68032647/115288089-44c04f00-a10e-11eb-9cb4-62ebd5288ebb.PNG">
 
-
-## CONFIGURATION ##
 
 
 ## MAINTAINERS ##
