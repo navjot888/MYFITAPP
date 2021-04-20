@@ -1,4 +1,4 @@
-MYFIT APP                                                                      
+_*MYFIT APP*_                                                                      
                                                                              
 # TABLE OF CONTENTS #
 
