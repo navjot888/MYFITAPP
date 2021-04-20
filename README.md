@@ -117,14 +117,15 @@ A **non-fucntional requirement** is a requirement is a requirement that specifie
 5 Supports both the portrait and landscape.
  
 ## FEATURES WITH USE CASES ##
-1 Using activities instead of FRAGMENTS\
-2 Threading\
+
+1. Using activities instead of fragments
+2. Threading
 - Timer / Clock
-3 Gestures\
+3. Gestures
 - Lists, navigation, Layouts
-4 Animations\
+4. Animations
 - Transition between views
-5 Internet Connectivity
+5. Internet Connectivity
 
 ## DRAWABLES ## 
 Drawables includes the images that the app includes for the User Interface to look attractive and acceptable to the user.
