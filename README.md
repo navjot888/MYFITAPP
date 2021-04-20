@@ -1,6 +1,9 @@
 
 # _**MYFIT APP**_ # 
 
+
+<img width="254" alt="title" src="https://user-images.githubusercontent.com/68032647/115464280-0ef09880-a1ea-11eb-92b3-48873a98e311.png">
+
                                                           
 # TABLE OF CONTENTS :  #
 
