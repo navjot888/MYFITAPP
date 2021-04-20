@@ -1,5 +1,6 @@
-Creator : NAVJOT KAUR
-Project Name : MYFITAPP
+# Creator : NAVJOT KAUR #
+
+# Project Name : MYFITAPP #
 
 
 
