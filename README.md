@@ -28,7 +28,7 @@
 
 ## REFERENCES ##
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- #
 
 ## INTRODUCTION ##
 My FITAPP is not a cumbersome app. It's just a simple and easy to use app with a friendly User Interface design that is easy to navigate to. It can be easily operated by anyone, even if the individaul is not a so friedly with using technology and is totally new to it. It has a very simple and catchable UI. 
