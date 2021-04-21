@@ -2,19 +2,23 @@
 
 # Project Name : MYFITAPP # 
 
-# ------------------------------------------------------------------------------ #
+# ---------------------------------------------------------------- #
 
 
-<img width="254" alt="title" src="https://user-images.githubusercontent.com/68032647/115464280-0ef09880-a1ea-11eb-92b3-48873a98e311.png">     
+<img width="254" alt="title" src="https://user-images.githubusercontent.com/68032647/115464280-0ef09880-a1ea-11eb-92b3-48873a98e311.png">             
+
+
+![img1](https://user-images.githubusercontent.com/68032647/115483556-39544d00-a20e-11eb-804e-e7f9b759aabf.jpg)
+ 
 
 
 
 
-# ------------------------------------------------------------------------------ #
+# ---------------------------------------------------------------- #
 
-# ------------------------------------------------------------------------------ #                                                          
+# ---------------------------------------------------------------- #                                                          
 # TABLE OF CONTENTS :  #   
-# ------------------------------------------------------------------------------ #
+# ---------------------------------------------------------------- #
 
 ## INTRODUCTION ##
 
@@ -34,8 +38,8 @@
 
 ## REFERENCES ##
 
-# ------------------------------------------------------------------------------ #
-# ------------------------------------------------------------------------------ #
+# ---------------------------------------------------------------- #
+# ---------------------------------------------------------------- #
 
 ## INTRODUCTION ##
 My FITAPP is not a cumbersome app. It's just a simple and easy to use app with a friendly User Interface design that is easy to navigate to. It can be easily operated by anyone, even if the individaul is not a so friedly with using technology and is totally new to it. It has a very simple and catchable UI. 
