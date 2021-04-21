@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
         bgprogresstop.startAnimation(lefttoright); // To pause or stop the workout in between according to the users wish
 
         //Give an event to another page
-        // Gives a command to run the app once a button "START WORKOUT" is clicked
+        // Gives a command to run the app once a button "START WORKOUT" is clicked by setting up OnClickListeners
         btnexercise.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

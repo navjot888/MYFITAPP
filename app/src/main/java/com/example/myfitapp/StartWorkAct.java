@@ -43,6 +43,7 @@ public class StartWorkAct extends AppCompatActivity {
         ttbtwo = AnimationUtils.loadAnimation(this, R.anim.ttbtwo);
         alphago = AnimationUtils.loadAnimation(this, R.anim.alphago);
 
+        //Initializing the parameters under TextView
         intropage = (TextView) findViewById(R.id.intropage);
         subintropage = (TextView) findViewById(R.id.subintropage);
         fitonetitle = (TextView) findViewById(R.id.fitonetitle);
@@ -70,16 +71,17 @@ public class StartWorkAct extends AppCompatActivity {
         startTimer();
     }
 
+    // Initiating the Timer and setting up the configuration to milliseconds.
     private void startTimer(){
         countDownTimer = new CountDownTimer(mTimeLeftInMillis, 1000) {
             @Override
-            public void onTick(long millisUntilFinished) {
+            public void onTick(long millisUntilFinished) { // Used for formatting the digits in 2 digits only
                 mTimeLeftInMillis = millisUntilFinished;
                 updateCountDownText();
             }
 
             @Override
-            public void onFinish() {
+            public void onFinish() { // When the task is over it will print "Done" there
                 Toast.makeText(getApplicationContext(), "Done!", Toast.LENGTH_SHORT).show();
             }
         }.start();
@@ -90,7 +92,7 @@ public class StartWorkAct extends AppCompatActivity {
         int minutes = (int) (mTimeLeftInMillis / 1000) / 60;
         int seconds = (int) (mTimeLeftInMillis / 1000) % 60;
 
-        String timeLeft = String.format(Locale.getDefault(),"%02d:%02d", minutes, seconds);
+        String timeLeft = String.format(Locale.getDefault(),"%02d:%02d", minutes, seconds); //Shows the time remaining
         timerValue.setText(timeLeft);
     }
 }
