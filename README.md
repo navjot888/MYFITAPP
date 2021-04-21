@@ -34,6 +34,8 @@
 
 ## PROCESS MODEL ##
 
+## BUG LIST ##
+
 ## MAINTAINERS ##
 
 ## REFERENCES ##
@@ -185,6 +187,13 @@ In this project the waterfall model is used is not quite used but it's just for 
 3. The blueprint and contruction of the app was done.
 4. Ample resources with required expertise were available freely.
 5. The project is stubby.
+
+## BUG LIST ##
+- First wasn't sure on how to start the creating the app but thought of the idea of implementing it somehow
+- Late searched for a couple of tutorials to get a glimpse or a rough idea on how to get a head start with that
+- Encountered quite a bit of issues such as running on the emulator or importing the dependencies
+- But while using the search engine juxtaposingly was able to figure those bugs out
+- And was able to run the app successfully
 
 
 ## FINAL OVERVIEW ##
